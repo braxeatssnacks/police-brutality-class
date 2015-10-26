@@ -15,3 +15,5 @@ MODULES NEEDED:
   - vincent
   - from geolocation.google_maps import GoogleMaps
   
+most easily used with ipython notebook from Anaconda
+.ipynb file
