@@ -5,3 +5,13 @@ of civilian interaction with law enforcement. I would like to investigate the re
 of these examples as a potential insight into class dynamics interacting with policing.
 
 *Unfortunately I could only find public data sets regarding county information rather than city so the results will reflect that*
+
+
+MODULES NEEDED:
+  - prettyprint
+  - numpy
+  - matplotlib.pyplot
+  - pandas
+  - vincent
+  - from geolocation.google_maps import GoogleMaps
+  
