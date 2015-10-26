@@ -30,7 +30,7 @@ def isValidEmail(part):
         spec = ["_", "-"]
 
         for i in username:
-            if i.isalpha() or i.isdigit() and i or spec:
+            if i.isalpha() or i.isdigit() or i in spec:
                 pass
             else:
                 return False
