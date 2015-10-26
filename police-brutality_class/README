@@ -1,0 +1,19 @@
+// Project Created in Spring of 2015
+
+In light of recent events of police violence in Baltimore, Ferguson, and Cleveland, many factors seem to influence the outcome 
+of civilian interaction with law enforcement. I would like to investigate the relationship between each
+of these examples as a potential insight into class dynamics interacting with policing.
+
+*Unfortunately I could only find public data sets regarding county information rather than city so the results will reflect that*
+
+
+MODULES NEEDED:
+  - prettyprint
+  - numpy
+  - matplotlib.pyplot
+  - pandas
+  - vincent
+  - from geolocation.google_maps import GoogleMaps
+  
+most easily used with ipython notebook from Anaconda
+.ipynb file
