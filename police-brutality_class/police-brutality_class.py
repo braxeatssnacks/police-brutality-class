@@ -255,6 +255,8 @@ percentages = [baltimore_percent, ferguson_percent, cleveland_percent]
 i = {"City": pd.Series(cities), "County": pd.Series(counties), "Household Median Income": pd.Series(incomes), "Percentage of Population in Poverty": pd.Series(percentages)}
 df_main = pd.DataFrame(i)
 
+print(df_main)
+
 # ************************************************************************** #
 
 # graph
