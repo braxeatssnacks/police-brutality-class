@@ -273,7 +273,7 @@ ax2.plot()
 
 # ************************************************************************** #
 
-# map display
+# (ATTEMPT TO) map display
 
 vincent.core.initialize_notebook()
 
