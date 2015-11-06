@@ -1,6 +1,6 @@
 # BraxEatsSnacks
 
-compiled in python3 (with anaconda)
+compiled in python3
 
 Projects:
 
@@ -10,3 +10,6 @@ Projects:
 	
 - email_validator
 	determines if email address is valid
+
+- slither
+	allows user to play snake gam
